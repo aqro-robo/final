@@ -1,0 +1,14 @@
+# فایل‌های Python
+__pycache__/
+*.pyc
+env/
+venv/
+uploads/
+.DS_Store
+.env
+
+# فایل‌های Node (فرانت)
+node_modules/
+build/
+dist/
+npm-debug.logo
